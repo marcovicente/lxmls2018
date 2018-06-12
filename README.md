@@ -1,17 +1,27 @@
 # Lisbon Machine Learning School 2018
+* [Useful Information](#info)
+* [Getting Started](#start)
 
+
+<a name="start"></a>
 ## Getting Started
 * Install:
     * [Anaconda](https://www.anaconda.com/download/)
     * [PyTorch](https://pytorch.org/)
 
+<a name="info"></a>
 ## Useful Information
-* LxMLS
-    * [Website](http://lxmls.it.pt/2018/)
-    * [Lab Guide](http://lxmls.it.pt/2018/LxMLS_guide_2018.pdf)
-    * [Labs@Github](https://github.com/LxMLS/lxmls-toolkit)
+* [LxMLS 2018](http://lxmls.it.pt/2018/)
+    * [Labs Guide](http://lxmls.it.pt/2018/LxMLS_guide_2018.pdf)
+    * [Labs Sources](https://github.com/LxMLS/lxmls-toolkit) (Github)
+
+* [Jupyter Notebooks](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html)    
+    
+
 * [The State of Artificial Intelligence](https://www.youtube.com/watch?v=NKpuX_yzdYs) (video)
 * [Can We Build AI Without Losing Control of It?](https://www.youtube.com/watch?v=8nt3edWLgIg) (video)
+
+
 * ["Attacking Machine Learning with Adversarial Examples”](https://blog.openai.com/adversarial-example-research/) (article)
 * ["Infrastructure for Deep Learning"](https://blog.openai.com/infrastructure-for-deep-learning/) (article)
 * [Peter Senge's Introduction to Systems Thinking](https://youtu.be/eXdzKBWDraM) (video)

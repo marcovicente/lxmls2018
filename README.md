@@ -41,14 +41,14 @@
 ## Useful Information
 * [LxMLS 2018 website](http://lxmls.it.pt/2018/)
 * [Slack Group](lxmls2018.slack.com)
-* Previous Talks (2017):
+* Previous Lectures (2017):
     * [Learning and representation in language understanding](https://www.youtube.com/watch?v=OqMYm874pCc&t=0s&list=PLToLj8M4ao-fuRfnzEJCCnvuW2_FeJ73N&index=4) ([slides](http://lxmls.it.pt/2017/Learning_and_representation_in_language_understanding.pdf)) - [Fernando Pereira](https://sites.google.com/site/fernandopereira/)
     * [Smaller, faster, deeper: Univ. Edinburg MT submission to WMT 2017](https://www.youtube.com/watch?v=iB_YfX4bFw0&t=0s&list=PLToLj8M4ao-fuRfnzEJCCnvuW2_FeJ73N&index=6) ([slides](http://lxmls.it.pt/2017/birchNMT.pdf)) - [Alexandra Birch](http://homepages.inf.ed.ac.uk/abmayne/)
     * Deep Learning for Speech Recognition - [Mark Gales](http://mi.eng.cam.ac.uk/~mjfg/) ([slides](http://lxmls.it.pt/2017/birchNMT.pdf)) 
     * [Syntax and Parsing](https://www.youtube.com/watch?v=85jixvhCOQw&t=0s&list=PLToLj8M4ao-fuRfnzEJCCnvuW2_FeJ73N&index=9) - [Yoav Goldberg](https://www.cs.bgu.ac.il/~yoavg/uni/) ([slides](http://lxmls.it.pt/2017/const-parsing.pdf))
     * [Simple and efficient learning with dynamic Neural Networks](https://www.youtube.com/watch?v=qBt72QhM7iM&t=0s&list=PLToLj8M4ao-fuRfnzEJCCnvuW2_FeJ73N&index=11) ([slides](https://github.com/neubig/lxmls-2017/blob/master/neubig17mlss.pdf)) - [Graham Neubig](http://www.phontron.com/research.php)
     * [Neural Machine Translation and beyond](https://www.youtube.com/watch?v=LjbAB_Ol_uY&t=0s&list=PLToLj8M4ao-fuRfnzEJCCnvuW2_FeJ73N&index=13) ([slides](http://lxmls.it.pt/2017/rnn.pdf)) - [Kyunghyun Cho](http://www.kyunghyuncho.me/)  
-* Previous Talks (2016):
+* Previous Lectures (2016):
     * Structured prediction in Natural Language Processing with imitation learning - [Andreas Vlachos](https://andreasvlachos.github.io/) ([slides](http://andreasvlachos.github.io/assets/lectures_reveal_js/LxMLS22July2016/ImitationLearningTutorial.html#/))
     * [Machine Translation as Sequence Modelling](https://www.youtube.com/watch?v=0bt9VAPsIps&list=PLToLj8M4ao-fymxXBIOU6sF1NGFLb5EiX&index=4) - [Philipp Koehn](http://www.cs.jhu.edu/~phi/) ([slides](http://lxmls.it.pt/2016/talk.pdf))
     * [Turbo Parser Redux: from dependencies to constituents](https://www.youtube.com/watch?v=teUFYEimLXU&list=PLToLj8M4ao-fymxXBIOU6sF1NGFLb5EiX&index=7) - [André Martins](ttps://www.cs.cmu.edu/~afm/Home.html) ([slides](http://lxmls.it.pt/2016/lxmls2016_slides.pdf))

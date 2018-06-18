@@ -1,6 +1,8 @@
 # Lisbon Machine Learning School 2018
-* [Useful Information](#info)
+
 * [Getting Started](#start)
+* [Lectures](#lectures)
+* [Useful Information](#info)
 
 
 <a name="start"></a>
@@ -9,11 +11,39 @@
     * [Anaconda](https://www.anaconda.com/download/)
     * [PyTorch](https://pytorch.org/)
 
+
+<a name="lectures"></a>
+## Lectures
+### Day 1
+* Basic tutorial on Probability Theory and Linear Algebra - Mário Figueiredo ([slides](http://lxmls.it.pt/2018/Figueiredo_LxMLS2018.pdf))
+* Introduction to Python - Luís Pedro Coelho ([notebook](https://github.com/luispedro/talk-python-intro))
+### Day 2
+* Introduction to Machine Learning: Linear Learners - Stefan Riezler ([video](https://www.youtube.com/watch?v=DR1qJW597bA&t=0s&list=PLToLj8M4ao-fuRfnzEJCCnvuW2_FeJ73N&index=3) | [slides](http://lxmls.it.pt/2018/slidesLXMLS2018.pdf))
+* Multi-view representation learning for speech and language - Karen Livescu
+### Day 3
+* Sequence Models - Noah Smith ([video](https://www.youtube.com/watch?v=c2_GcfvDUPU&t=0s&list=PLToLj8M4ao-fuRfnzEJCCnvuW2_FeJ73N&index=5) | [slides](https://homes.cs.washington.edu/~nasmith/slides/LXMLS-6-16-18.pdf))
+* Making neural generation better: with practice and common sense - Yejin Choi
+### Day 4
+* Introduction to Neural Networks - Bhiksha Raj ([video](https://www.youtube.com/watch?v=6wjA8nfOAGw&t=0s&list=PLToLj8M4ao-fuRfnzEJCCnvuW2_FeJ73N&index=10))
+* Learning language by grounding language - Karl Moritz Hermann
+### Day 5
+* Learning Structured Predictors - Xavier Carreras ([video](https://www.youtube.com/watch?v=J4Yyru3YeWk&t=0s&list=PLToLj8M4ao-fuRfnzEJCCnvuW2_FeJ73N&index=7))
+### Day 6
+* Parsing - Slav Petrov
+* Controlling Text Generation - Sasha Rush
+### Day 7
+* Modeling sequential data with Recurrent Networks - Chris Dyer ([video](https://www.youtube.com/watch?v=kZKTpM45LAk&t=0s&list=PLToLj8M4ao-fuRfnzEJCCnvuW2_FeJ73N&index=12))
+* Meta-learning of Neural Machine Translation for low-resource language pairs - Kyunghyun Cho
+
+
 <a name="info"></a>
 ## Useful Information
 * [LxMLS 2018](http://lxmls.it.pt/2018/)
     * [Labs Guide](http://lxmls.it.pt/2018/LxMLS_guide_2018.pdf)
     * [Labs Sources](https://github.com/LxMLS/lxmls-toolkit) (Github)
+    * [Slack Group](lxmls2018.slack.com)
+    * Previous Talks:
+        *
 
 * [Jupyter Notebooks](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html)    
     

@@ -17,7 +17,7 @@
 *  [Sequence Models](https://www.youtube.com/watch?v=c2_GcfvDUPU&t=0s&list=PLToLj8M4ao-fuRfnzEJCCnvuW2_FeJ73N&index=5) - [Noah Smith](http://homes.cs.washington.edu/~nasmith/) ([slides](https://homes.cs.washington.edu/~nasmith/slides/LXMLS-6-16-18.pdf))
 * Making neural generation better: with practice and common sense - [Yejin Choi](http://homes.cs.washington.edu/~yejin/)
 ### Day 4
-* [Introduction to Neural Networks](https://www.youtube.com/watch?v=6wjA8nfOAGw&t=0s&list=PLToLj8M4ao-fuRfnzEJCCnvuW2_FeJ73N&index=10) - [Bhiksha Raj](http://www.cs.cmu.edu/~bhiksha/) 
+* [Introduction to Neural Networks](https://www.youtube.com/watch?v=6wjA8nfOAGw&t=0s&list=PLToLj8M4ao-fuRfnzEJCCnvuW2_FeJ73N&index=10) - [Bhiksha Raj](http://www.cs.cmu.edu/~bhiksha/)  ([slides](http://lxmls.it.pt/2017/Lecture.fin.pdf))
 * Learning language by grounding language - [Karl Moritz Hermann](http://www.karlmoritz.com/) ([slides](http://lxmls.it.pt/2018/LxMLS2018_Karl_Moritz.pdf))
 ### Day 5
 * [Learning Structured Predictors](https://www.youtube.com/watch?v=J4Yyru3YeWk&t=0s&list=PLToLj8M4ao-fuRfnzEJCCnvuW2_FeJ73N&index=7)  - [Xavier Carreras](https://xaviercarreras.github.io)

@@ -23,7 +23,7 @@
 * [Learning Structured Predictors](https://www.youtube.com/watch?v=J4Yyru3YeWk&t=0s&list=PLToLj8M4ao-fuRfnzEJCCnvuW2_FeJ73N&index=7)  - [Xavier Carreras](https://xaviercarreras.github.io) ([slides](http://lxmls.it.pt/2018/strlearn.pdf))
 ### Day 6
 * [Parsing](https://www.youtube.com/watch?v=YK1PLBPfvDY&list=PLToLj8M4ao-fymxXBIOU6sF1NGFLb5EiX&index=6) - [Slav Petrov](http://www.petrovi.de/) ([part 1](http://lxmls.it.pt/2018/Part_1_-_Constituency_Parsing_2018.pdf) | [part 2](http://lxmls.it.pt/2018/Part_2_-_Dependency_Parsing_2018.pdf))
-* Controlling Text Generation - [Sasha Rush](https://www.seas.harvard.edu/directory/srush)
+* [Controlling Text Generation](http://lxmls.it.pt/2018/talk3.pdf) - [Sasha Rush](https://www.seas.harvard.edu/directory/srush)
 ### Day 7
 * [Modeling sequential data with Recurrent Networks](https://www.youtube.com/watch?v=kZKTpM45LAk&t=0s&list=PLToLj8M4ao-fuRfnzEJCCnvuW2_FeJ73N&index=12) - [Chris Dyer](http://www.cs.cmu.edu/~cdyer)
 * Meta-learning of Neural Machine Translation for low-resource language pairs - [Kyunghyun Cho](http://www.kyunghyuncho.me/)

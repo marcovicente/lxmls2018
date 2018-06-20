@@ -41,6 +41,8 @@
 ## Useful Information
 * [LxMLS 2018 website](http://lxmls.it.pt/2018/)
 * [Slack Group](lxmls2018.slack.com)
+* Other Lectures:
+    * [Learning and Reasoning about the World using Language](https://youtu.be/qs2aO8tTxNs) - [Yejin Choi](http://homes.cs.washington.edu/~yejin/)
 * Previous Lectures (2017):
     * [Learning and representation in language understanding](https://www.youtube.com/watch?v=OqMYm874pCc&t=0s&list=PLToLj8M4ao-fuRfnzEJCCnvuW2_FeJ73N&index=4) ([slides](http://lxmls.it.pt/2017/Learning_and_representation_in_language_understanding.pdf)) - [Fernando Pereira](https://sites.google.com/site/fernandopereira/)
     * [Smaller, faster, deeper: Univ. Edinburg MT submission to WMT 2017](https://www.youtube.com/watch?v=iB_YfX4bFw0&t=0s&list=PLToLj8M4ao-fuRfnzEJCCnvuW2_FeJ73N&index=6) ([slides](http://lxmls.it.pt/2017/birchNMT.pdf)) - [Alexandra Birch](http://homepages.inf.ed.ac.uk/abmayne/)
